@@ -16,9 +16,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* This component to learn more about react
-* I will add a unit tests for it ASAP
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
